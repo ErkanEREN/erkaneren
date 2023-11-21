@@ -2,6 +2,15 @@
 ---
 @import "{{ site.theme }}";
 
+.siteAction {
+    display: block;
+    float: right;
+    width: 90px;
+    height:70px;
+    text-indent: -5000px;
+    overflow: hidden;
+}
+
 .inner {
     max-width: 980px !important;
 }
