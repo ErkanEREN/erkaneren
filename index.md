@@ -1,10 +1,11 @@
-# Erkan EREN Software Engineer (BSc.)
-34349 TURKEY `BESIKTAS, ISTANBUL`
+---
+title: Resume
+---
 
-[`erkaneren.dev/calendar`](https://erkaneren.dev/calendar) \
-[`erkaneren.dev/linkedin`](https://erkaneren.dev/linkedin)
-
+| [`calendar`](https://erkaneren.dev/calendar)
+| [`linkedin`](https://erkaneren.dev/linkedin)
 ## Overview
+
 * Platform: Docker, WSL2, Multi-Tenant, Micro-architecture, On-Premise, Distributed, Nginx, Web/Express.js/Apache/HTTP/Tomcat/Jetty
 * Development Habitat: bash shell, JavaScript, ES6, TypeScript, Node.js, React, Webpack, Babel, Yarn (Berry), GraphQL, Java, Angular, Spring (Boot), Guice, Apache Beam, SonarQube, Java 8+, Gradle/Maven
 * Building: Unit Testing, Test Reporting, Static Code Analysis, OpenAPI/Swagger, Code Generation
