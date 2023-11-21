@@ -5,12 +5,14 @@
 .siteAction {
     display: block;
     float: right;
-    width: 90px;
+    width: 70px;
     height:70px;
     text-indent: -5000px;
     background-size: contain;
     background-repeat: space;
     overflow: hidden;
+    background-color: white;
+    border-radius: 78%;
 }
 
 #siteActions {
@@ -19,6 +21,7 @@
   bottom: -40px;
   right: 0;
   height: 70px;
+  padding-right: 10px;
 }
 
 .inner {
