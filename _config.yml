@@ -1,10 +1,15 @@
 title: Erkan EREN
 description: Software Engineer (BSc.) 34349
-action:
-  url: https://erkaneren.dev/linkedin
-  text: linkedin.com/in/erkan-eren
-  icon: https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png
-LinkedIn: https://erkaneren.dev/linkedin
+socials:
+    -
+      url: https://linkedin.com/in/erkan-eren
+      text: linkedin/erkan-eren
+      icon: /assets/images/linkedin.png
+    -
+      url: https://github.com/ErkanEREN/
+      text: github@ErkanEREN
+      icon: /assets/images/github.png
+
 theme: "jekyll-theme-slate"
 github:
   is_project_page: false

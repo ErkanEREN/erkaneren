@@ -23,11 +23,11 @@
           <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
           <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
 
-          {% if site.action %}
-            <section id="siteActions">
-              <a class="siteAction" href="{{ site.action.url }}" style="background-image: url({{ site.action.icon }});">{{ site.action.text }}</a>
-            </section>
-          {% endif %}
+          <section id="siteActions">
+          {% for social in site.socials %}
+            <a class="siteAction" href="{{ social.url }}" style="background-image: url({{ social.icon }});">{{ social.text }}</a>
+          {% endfor %}
+          </section>
         </header>
     </div>
 
