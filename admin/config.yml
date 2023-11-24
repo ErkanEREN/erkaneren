@@ -1,7 +1,7 @@
 backend:
-  name: github
+  name: git-gateway
   repo: ErkanEREN/erkaneren
-  site_id: 8e2a4ae0-882b-481e-803d-2cfcd3c3e802
+  site_domain: 8e2a4ae0-882b-481e-803d-2cfcd3c3e802
   auth_endpoint: auth
   branch: master # Branch to update (optional; defaults to master)
 publish_mode: editorial_workflow
