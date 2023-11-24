@@ -1,7 +1,6 @@
 backend:
-  name: git-gateway
-  repo: ErkanEREN/erkanerengit push
-  site_domain: hello.erkaneren.dev
+  name: github
+  repo: ErkanEREN/erkaneren
   auth_endpoint: auth
   branch: master # Branch to update (optional; defaults to master)
 publish_mode: editorial_workflow
