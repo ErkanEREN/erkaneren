@@ -12,7 +12,7 @@ collections:
     identifier_field: id
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Start Date', name: 'sdate', widget: 'datetime', date_format: "YYYY-MM" }
-      - { label: 'End Date', name: 'edate', widget: 'datetime', date_format: "YYYY-MM" }
+      - { label: 'Start Date', name: 'sdate', widget: 'datetime', date_format: "YYYY-MM", time_format: false }
+      - { label: 'End Date', name: 'edate', widget: 'datetime', date_format: "YYYY-MM", time_format: false }
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - { label: 'Order', name: 'id', widget: 'number' }
