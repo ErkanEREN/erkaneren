@@ -52,6 +52,6 @@ collections:
         label: Blog (Türkçe)
 
 i18n:
-  languages:
-    - en
-    - tr
+  default_locale: en
+  structure: multiple_folders
+  locales: [en, tr]
