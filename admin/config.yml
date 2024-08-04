@@ -5,9 +5,24 @@ backend:
 publish_mode: editorial_workflow
 media_folder: assets/images/uploads
 collections:
+  - name: projects
+    label: Projects
+    folder: content/projects
+    create: true
+    fields:
+      - { name: title, label: Title, widget: string }
+      - { name: description, label: Description, widget: markdown }
+      - { name: image, label: Image, widget: image }
+      - { name: link, label: Link, widget: string }
+    i18n:
+      en:
+        label: Projects (English)
+      tr:
+        label: Projeler (Türkçe)
+
   - name: experiences
-    label: experience
-    folder: _experiences
+    label: Experiences
+    folder: content/experiences
     create: true
     identifier_field: id
     fields:
@@ -16,3 +31,27 @@ collections:
       - { label: 'End Date', name: 'edate', widget: 'datetime', date_format: "MMMM YYYY", time_format: false, format: "MMMM YYYY" }
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - { label: 'Order', name: 'id', widget: 'number' }
+    i18n:
+      en:
+        label: Experiences (English)
+      tr:
+        label: Tecrübeler (Türkçe)
+
+  - name: blog
+    label: Blog
+    folder: content/blog
+    create: true
+    fields:
+      - { name: title, label: Title, widget: string }
+      - { name: date, label: Date, widget: date }
+      - { name: content, label: Content, widget: markdown }
+    i18n:
+      en:
+        label: Blog (English)
+      tr:
+        label: Blog (Türkçe)
+
+i18n:
+  languages:
+    - en
+    - tr
