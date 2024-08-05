@@ -22,9 +22,9 @@ title: Erkan EREN
 email: public@hello.erkaneren.dev
 description: >- # this means to ignore newlines until "baseurl:"
   Engineer (BSc.) 34349
-  
-  https://erkaneren.dev/calendar
-  https://erkaneren.dev/meet
+  <a href="https://erkaneren.dev/linkedin">linkedin</a>
+  <a href="https://erkaneren.dev/meet">meet</a>
+  <a href="https://erkaneren.dev/calendar">calendar</a>
   
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hello.erkaneren.dev" # the base hostname & protocol for your site, e.g. http://example.com
