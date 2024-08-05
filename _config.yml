@@ -22,13 +22,15 @@ title: Erkan EREN
 email: public@hello.erkaneren.dev
 description: >- # this means to ignore newlines until "baseurl:"
   Engineer (BSc.) 34349
-  [`calendar`](https://erkaneren.dev/calendar)
-  [`meet`](https://erkaneren.dev/meet)
+
+  https://erkaneren.dev/calendar
+  https://erkaneren.dev/meet
   
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hello.erkaneren.dev" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: erkan-eren
 github_username:  ErkanEREN
+theme: primer
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
