@@ -7,13 +7,12 @@ media_folder: assets/images/uploads
 collections:
   - name: projects
     label: Projects
-    folder: content/projects
+    folder: _data/projects
     create: true
     fields:
-      - { name: title, label: Title, widget: string }
-      - { name: description, label: Description, widget: markdown }
-      - { name: image, label: Image, widget: image }
-      - { name: link, label: Link, widget: string }
+      - { name: title, label: Title, widget: string, i18n: true }
+      - { name: description, label: Description, widget: markdown, i18n: true }
+      - { name: content, label: Content, widget: markdown, i18n: true }
     i18n:
       en:
         label: Projects (English)
@@ -22,15 +21,16 @@ collections:
 
   - name: experiences
     label: Experiences
-    folder: content/experiences
+    folder: _data/experiences
     create: true
     identifier_field: id
     fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Start Date', name: 'sdate', widget: 'datetime', date_format: "MMMM YYYY", time_format: false, format: "MMMM YYYY" }
-      - { label: 'End Date', name: 'edate', widget: 'datetime', date_format: "MMMM YYYY", time_format: false, format: "MMMM YYYY" }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
-      - { label: 'Order', name: 'id', widget: 'number' }
+      - { name: 'title', label: 'Title', widget: 'string', i18n: true }
+      - { name: 'sdate', label: 'Start Date', widget: 'datetime', date_format: "MMMM YYYY", time_format: false, format: "MMMM YYYY", i18n: duplicate }
+      - { name: 'edate', label: 'End Date', widget: 'datetime', date_format: "MMMM YYYY", time_format: false, format: "MMMM YYYY", i18n: duplicate }
+      - { name: 'company', label: 'Company', widget: 'string', i18n: true }
+      - { name: 'content', label: 'Content', widget: 'markdown', i18n: true }
+      - { name: 'id', label: 'Order', widget: 'number', i18n: duplicate }
     i18n:
       en:
         label: Experiences (English)
@@ -39,12 +39,13 @@ collections:
 
   - name: blog
     label: Blog
-    folder: content/blog
+    folder: _posts
     create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}' 
     fields:
-      - { name: title, label: Title, widget: string }
-      - { name: date, label: Date, widget: date }
-      - { name: content, label: Content, widget: markdown }
+      - { name: title, label: Title, widget: string, i18n: true }
+      - { name: date, label: Date, widget: 'datetime', date_format: "DD MMMM/YY", time_format: "HH:MM", format: "DD MMMM/YY", i18n: duplicate }
+      - { name: content, label: Content, widget: markdown, i18n: true }
     i18n:
       en:
         label: Blog (English)
