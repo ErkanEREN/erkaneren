@@ -1,4 +1,3 @@
----
 title: Software Engineer
 sdate: May 2016
 edate: October 2016
@@ -9,5 +8,4 @@ content: >-
   * Maintained and improved Kredico web services. 
   * Developed a .NET multi-layer architecture project with an MS SQL database and plain HTML, CSS, and JavaScript front-end. 
   * Implemented shadow matching with the GDS decision engine.
-id: 7
----
+id: 3

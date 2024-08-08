@@ -1,4 +1,3 @@
----
 title: Preliminary Researcher / Solution Advisor / Consultant
 sdate: February 2022
 edate: June 2024
@@ -18,5 +17,4 @@ content: >-
     * Using smartphone cameras as high-resolution webcams.
     * Enabling computers and smart devices to connect to Windows-based devices as display, sound output, and touch input devices without interrupting the current session.
     * Implementing ADB commands on Android phones (no-root).
-id: 1
----
+id: 9

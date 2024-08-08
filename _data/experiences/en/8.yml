@@ -1,4 +1,3 @@
----
 title: Full-Stack Developer
 sdate: September 2019
 edate: April 2021
@@ -10,5 +9,4 @@ content: >-
   * Led a data synchronization project on GCP Dataflow (Apache Beam, big-data processing). 
   * Explored and implemented cloud runners, understanding their practical similarities and differences. 
   * Enhanced scalability and optimized cloud resources, incorporating DevOps practices.
-id: 2
----
+id: 8
