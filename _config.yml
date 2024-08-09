@@ -30,7 +30,19 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hello.erkaneren.dev" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: erkan-eren
 github_username:  ErkanEREN
-theme: minima
+sass:
+    style: compressed
+    sourcemap: development
+
+defaults:
+  - scope: 
+      path: ""
+    values:
+      lang: en
+  - scope:
+      path: "tr*"
+    values: 
+      lang: tr
 
 # locales:
 #   default:

@@ -6,6 +6,15 @@ permalink: /about/
 
 | [`calendar`](https://erkaneren.dev/calendar)
 | [`linkedin`](https://erkaneren.dev/linkedin)
+
+<ul class="u-off-screen">
+{% for experience_hash in site.data.experiences[page.lang] %}
+  <li>
+    {{ experience_hash }}
+  </li>
+{% endfor %}
+</ul>
+
 ## Overview
 
 * Platform: Docker, WSL2, Multi-Tenant, Micro-architecture, On-Premise, Distributed, Nginx, Web/Express.js/Apache/HTTP/Tomcat/Jetty
