@@ -4,6 +4,6 @@ $font-family: 'Merriweather';
 $font-base-family: 'Merriweather';
 $font-monospace-family: 'Merriweather';
 
-@import "../_deps/vanilla-framework";
+@import "vanilla-framework";
 @include vf-base;
 @include vf-u-off-screen;
