@@ -4,4 +4,8 @@
 @import "/assets/css/dark.css" (prefers-color-scheme: dark);
 @import "/assets/css/normal.css" not (prefers-color-scheme: dark);
 {% endraw %}
+$color-brand: #14cc53;
+$color-accent: #1453cc;
+$font-base-family: 'Helvetica';
+$font-monospace: 'Helvetica';
 @import "main";
