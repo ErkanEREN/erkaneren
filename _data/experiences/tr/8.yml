@@ -1,3 +1,16 @@
+title: Full-Stack Geliştirici
 sdate: September 2019
 edate: April 2021
+company: Codeshake
+content: >-
+  * Hollandalı ortak Cloudwise ile eğitim SaaS hizmetlerini sürdürmek ve
+  geliştirmek için çalıştım.
+
+  * Back-end için Java 8 ve front-end için Angular (TypeScript, Material UI) gibi katı bir teknoloji yığını kullandım.
+
+  * GCP Dataflow (Apache Beam, büyük veri işleme) üzerinde bir veri senkronizasyon projesine liderlik ettim.
+
+  * Bulut koşucularını keşfettim ve uyguladım, pratik benzerliklerini ve farklılıklarını anladım.
+
+  * DevOps uygulamalarını dahil ederek ölçeklenebilirliği artırdım ve bulut kaynaklarını optimize ettim.
 id: 2
