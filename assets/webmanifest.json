@@ -32,5 +32,5 @@
     "accent_color": "#1453cc",
     "background_color": "#f3f3f3",
     "start_url": "/",
-    "display": "standalone"
+    "display": "browser"
 }
