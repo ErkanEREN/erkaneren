@@ -1,3 +1,7 @@
 ---
 ---
+{% raw %}
+@import "/assets/css/dark.css" (prefers-color-scheme: dark);
+@import "/assets/css/normal.css" not (prefers-color-scheme: dark);
+{% endraw %}
 @import "main";

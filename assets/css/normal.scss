@@ -1,0 +1,27 @@
+---
+---
+$color-brand: #14cc53;
+$color-accent: #1453cc;
+$font-family: 'Merriweather';
+$font-base-family: 'Merriweather';
+$font-monospace-family: 'Merriweather';
+@import "vanilla-framework";
+
+
+@import 'vanilla-framework/scss/global_functions';
+
+@import 'vanilla-framework/scss/settings_spacing';
+@import 'vanilla-framework/scss/settings_animations';
+@import 'vanilla-framework/scss/settings_assets';
+@import 'vanilla-framework/scss/settings_breakpoints';
+@import 'vanilla-framework/scss/settings_colors';
+@import 'vanilla-framework/scss/settings_font';
+@import 'vanilla-framework/scss/settings_grid';
+@import 'vanilla-framework/scss/settings_placeholders';
+@import 'vanilla-framework/scss/settings_tables';
+@import 'vanilla-framework/scss/settings_themes';
+
+
+:root{
+    @include vf-theme-paper;
+};

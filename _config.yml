@@ -31,8 +31,8 @@ url: "https://hello.erkaneren.dev" # the base hostname & protocol for your site,
 linkedin_username: erkan-eren
 github_username:  ErkanEREN
 sass:
-    style: compressed
-    sourcemap: development
+    style: compressed #expaned #
+    sourcemap: never #development #
 
 defaults:
   - scope: 
