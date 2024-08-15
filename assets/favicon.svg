@@ -11,6 +11,18 @@
   <desc>svg icon for letter E by the hand of a human</desc>
   <defs id="variables">
   </defs>
+  <style>
+    path {
+        fill: #444444;
+        stroke: #444444;
+    }
+    @media (prefers-color-scheme: dark) {
+      path {
+        fill: #888888;
+        stroke: #888888;
+      }
+    }
+  </style>
   <g>
     <path
     id="ma"
