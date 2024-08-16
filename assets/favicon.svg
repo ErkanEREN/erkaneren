@@ -1,28 +1,13 @@
 <svg
    version="1.1"
    id="E"
-   width="700"
-   height="850"
-   viewBox="0 0 700 850"
+   viewBox="-75 0 850 850"
+   style="fill: #450900; background-color: #686766"
    xml:space="preserve"
    role="graphics-symbol"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <desc>svg icon for letter E by the hand of a human</desc>
-  <defs id="variables">
-  </defs>
-  <style>
-    path {
-        fill: #444444;
-        stroke: #444444;
-    }
-    @media (prefers-color-scheme: dark) {
-      path {
-        fill: #888888;
-        stroke: #888888;
-      }
-    }
-  </style>
   <g>
     <path
     id="ma"
@@ -54,5 +39,3 @@
     </path>
   </g>
 </svg>
-
-
