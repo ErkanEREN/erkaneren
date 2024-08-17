@@ -1,15 +1,15 @@
 {
     "name": "Erkan EREN, Engineer (BSc.)",
     "short_name": "Erkan EREN",
+    "short_name": "Erkan EREN",
     "icons": [
         {
             "src": "/assets/favicon.svg",
             "type": "image/svg"
         }
     ],
-    "theme_color": "#14cc53",
-    "accent_color": "#1453cc",
-    "background_color": "#f3f3f3",
+    "theme_color": "#450900",
+    "description": "Erkan EREN, 🇹🇷34349, Engineer (BSc.)"
     "start_url": "/",
     "display": "browser"
 }
