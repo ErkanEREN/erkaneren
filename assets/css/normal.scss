@@ -18,5 +18,7 @@
 
 
 :root{
+    --vf-FLAG-ON: initial;
+    --vf-FLAG-OFF: ;
     @include vf-theme-paper;
 };

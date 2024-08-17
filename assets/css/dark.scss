@@ -17,5 +17,7 @@
 @import 'vanilla-framework/scss/settings_themes';
 
 :root{
+    --vf-FLAG-ON: initial;
+    --vf-FLAG-OFF: ;
     @include vf-theme-dark;
 }
