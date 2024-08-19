@@ -1,9 +1,8 @@
 ---
 ---
-{% raw %}
-@import "/assets/css/dark.css" (prefers-color-scheme: dark);
-@import "/assets/css/normal.css" not (prefers-color-scheme: dark);
-{% endraw %}
+@import "{{ "assets/css/dark.css" | relative_url  }}" (prefers-color-scheme: dark);
+@import "{{ "assets/css/normal.css" | relative_url  }}" not (prefers-color-scheme: dark);
+
 $color-brand: #450900;
 $color-accent: #109152;
 $font-base-family: 'Helvetica';

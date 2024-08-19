@@ -1,8 +1,12 @@
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://coder-4000.erkaneren.dev" # the base hostname & protocol for your site, e.g. http://example.com
 port: 4000
-host: "0.0.0.0"
+host: "coder"
 livereload: false
 watch: true
 verbose: true
 incremental: true
+sass:
+    style: expaned #
+    sourcemap: always #
+
