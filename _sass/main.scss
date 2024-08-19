@@ -27,3 +27,15 @@
     @extend .p-navigation__logo-tag;
     background-color: $color-brand;
 }
+
+@include vf-l-site;
+@include vf-p-inline-list;
+
+@include vf-p-icon-facebook;
+@include vf-p-icon-github;
+@include vf-p-icon-instagram;
+@include vf-p-icon-linkedin;
+@include vf-p-icon-twitter;
+@include vf-p-icon-youtube;
+@include vf-p-icon-rss;
+@include vf-p-icon-email;

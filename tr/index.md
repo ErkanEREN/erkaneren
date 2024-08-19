@@ -1,11 +1,8 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Hakkımda
+permalink: /tr
 ---
-
-| [`calendar`](https://erkaneren.dev/calendar)
-| [`linkedin`](https://erkaneren.dev/linkedin)
 
 <ul class="u-off-screen">
 {% for experience_hash in site.data.experiences[page.lang] %}
