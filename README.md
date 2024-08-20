@@ -1,5 +1,11 @@
 ### Hi there 👋
-
+Here some keyword soup for the time being
+* Platform: Docker, WSL2, Multi-Tenant, Micro-architecture, On-Premise, Distributed, Nginx, Web/Express.js/Apache/HTTP/Tomcat/Jetty
+* Development Habitat: bash shell, JavaScript, ES6, TypeScript, Node.js, React, Webpack, Babel, Yarn (Berry), GraphQL, Java, Angular, Spring (Boot), Guice, Apache Beam, SonarQube, Java 8+, Gradle/Maven
+* Building: Unit Testing, Test Reporting, Static Code Analysis, OpenAPI/Swagger, Code Generation
+* Cloud: Google Cloud Platform (GCP), Cloud Run, Dataflow, Firestore, Pub/Sub, Cloud Build, Cloud Functions, Secret Management, Identity Management
+* Database: SQL/PL-SQL, MongoDB, Postgres, Firestore, Blob storage
+* Computer Networking: DNS, IPAM, TSL, SMTP,  overlay-networking
 <!--
 **ErkanEREN/erkaneren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

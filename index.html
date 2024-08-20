@@ -1,0 +1,17 @@
+---
+layout: page
+title: Experiences
+permalink: /
+---
+<section id="experiences">
+{%- for experience_hash in site.data.experiences[page.lang] reversed -%}
+{%- assign experience = experience_hash[1] -%}
+<article id="experiences--{{ experience.sdate | slugify }}--{{ experience.company | slugify }}--{{ experience.edate | slugify }}">
+  <h3> {{experience.title}} </h3> 
+  <h4>
+    <sub>{{experience.sdate}}</sub> {{experience.company}} <sub>{{experience.edate}}</sub>
+  </h4>
+  {{ experience.content | markdownify }}
+</article>
+{%- endfor -%}
+</section>
