@@ -10,7 +10,7 @@ content: >-
 
   * Düşük gecikmeli, ölçeklenebilir hizmetler tasarladım ve uyguladım.
 
-  * Yeni platformlar için API’leri güncelledim.
+  * Yeni platformlar için **API**’leri güncelledim.
 
   * Mevcut **Java sunucu mimarisini** geliştirdim ve iyileştirdim.
 
@@ -18,5 +18,5 @@ content: >-
 
   * Eski kod tabanını **(Java, SQL, PL-SQL, JavaScript)** yönettim.
 
-  * **Nginx ters proxy** ve **Apache** yapılandırması dahil olmak üzere kendi kendini yöneten **Java sunucularının** bakımını yaptım.
+  * **Nginx ters proxy** ve **Apache** yapılandırması dahil olmak üzere kendi kendini yöneten **Java** sunucularının bakımını yaptım.
 id: 5
