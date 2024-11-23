@@ -12,11 +12,11 @@ content: >-
 
   * Yeni platformlar için API’leri güncelledim.
 
-  * Mevcut Java sunucu mimarisini geliştirdim ve iyileştirdim.
+  * Mevcut **Java sunucu mimarisini** geliştirdim ve iyileştirdim.
 
   * İstemci tarafında arka uç hizmetlerinin doğru uygulanmasını sağladım.
 
-  * Eski kod tabanını (Java, SQL, PL-SQL, JavaScript) yönettim.
+  * Eski kod tabanını **(Java, SQL, PL-SQL, JavaScript)** yönettim.
 
-  * Nginx ters proxy ve Apache yapılandırması dahil olmak üzere kendi kendini yöneten Java sunucularının bakımını yaptım.
+  * **Nginx ters proxy** ve **Apache** yapılandırması dahil olmak üzere kendi kendini yöneten **Java sunucularının** bakımını yaptım.
 id: 5
