@@ -10,6 +10,7 @@ content: >-
   * Collaborated as part of a seven-member software development team.
 
   * DCT Series:
+
     * Utilized HTML, CSS, and plain JavaScript for both frontend and backend (Node.js) with minimal footprint. 
     * Performed profiling and debugging on JavaScript for critical cases. 
     * Worked on data collection, including GPIO pins of the mainboard and system inner workings. 
@@ -20,6 +21,6 @@ content: >-
     * Created flexibly linkable maps overlaid with heatmap and/or alarm/sensor data. 
   * Retmes: 
 
-    * Worked on both server-side (micro architecture, cloud-first, JavaScript, Node.js) and front-end (React, JavaScript, Redux). 
+    * Worked on both server-side (micro architecture, cloud-first, JavaScript, Node.js) and frontend (React, JavaScript, Redux). 
     * Implemented challenging UIs to meet industrial needs while adhering to best practices.
 id: 6
