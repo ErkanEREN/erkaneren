@@ -8,7 +8,7 @@ content: >-
 
   * Maintained and improved Kredico web services.  
 
-  * Developed a .NET multi-layer architecture project with an MS SQL database and plain HTML, CSS, and JavaScript front-end.  
+  * Developed **a .NET multi-layer architecture** project with an **MS SQL** database and plain **HTML, CSS,** and **JavaScript** frontend.  
 
   * Implemented shadow matching with the GDS decision engine.
 id: 3
