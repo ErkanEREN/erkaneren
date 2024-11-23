@@ -3,9 +3,8 @@ sdate: December 2017
 edate: March 2018
 company: Digitoy Games
 content: >-
-  * Aylık 300 bin aktif kullanıcısı olan bir mobil ve web oyun şirketinde
-  çalıştım, poker ve yerel Rummy versiyonları gibi oyunları geliştirdim ve
-  bakımını yaptım.
+  * Aylık 300 bin aktif kullanıcısı olan bir mobil ve web oyun şirketinde, poker
+  ve yerel Rummy versiyonları gibi oyunları geliştirdim ve bakımını yaptım.
 
   * Altı kişilik teknik ekibin bir parçasıydım.
 
@@ -15,7 +14,7 @@ content: >-
 
   * Mevcut Java sunucu mimarisini geliştirdim ve iyileştirdim.
 
-  * İstemci tarafında back-end hizmetlerinin doğru uygulanmasını sağladım.
+  * İstemci tarafında arka uç hizmetlerinin doğru uygulanmasını sağladım.
 
   * Eski kod tabanını (Java, SQL, PL-SQL, JavaScript) yönettim.
 
