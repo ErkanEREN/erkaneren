@@ -6,11 +6,11 @@ content: >-
   * Hollandalı ortak Cloudwise ile eğitim SaaS hizmetlerini sürdürmek ve
   geliştirmek için çalıştım.
 
-  * Back-end için Java 8 ve front-end için Angular (TypeScript, Material UI) gibi katı bir teknoloji yığını kullandım.
+  * Arka uç için **Java 8** ve ön uç için **Angular (TypeScript, Material UI)** kullandım.
 
-  * GCP Dataflow (Apache Beam, büyük veri işleme) üzerinde bir veri senkronizasyon projesine liderlik ettim.
+  * **GCP Dataflow (Apache Beam, büyük veri işleme)** üzerinde bir veri senkronizasyon projesine liderlik ettim.
 
   * Bulut koşucularını keşfettim ve uyguladım, pratik benzerliklerini ve farklılıklarını anladım.
 
-  * DevOps uygulamalarını dahil ederek ölçeklenebilirliği artırdım ve bulut kaynaklarını optimize ettim.
+  * DevOps uygulamalarını dahil ederek ölçeklenebilirliği arttırdım ve bulut kaynaklarını optimize ettim.
 id: 2
