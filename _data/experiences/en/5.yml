@@ -12,11 +12,11 @@ content: >-
 
   * Updated APIs for new platforms.
 
-  * Improved and developed existing Java server architecture.
+  * Improved and developed existing **Java server architecture**.
 
   * Ensured correct implementation of backend services on the client side.
 
-  * Handled legacy codebase (Java, SQL, PL-SQL, JavaScript).
+  * Handled legacy codebase. **(Java, SQL, PL-SQL, JavaScript)**
 
-  * Maintained self-managed Java servers, including nginx reverse proxy and Apache configuration.
+  * Maintained self-managed **Java servers**, including **nginx reverse proxy** and **Apache** configuration.
 id: 5
