@@ -9,18 +9,18 @@ content: >-
 
   * Collaborated as part of a seven-member software development team.
 
-  * DCT Series:
+  * **DCT Series:**
 
-    * Utilized HTML, CSS, and plain JavaScript for both frontend and backend (Node.js) with minimal footprint. 
-    * Performed profiling and debugging on JavaScript for critical cases. 
-    * Worked on data collection, including GPIO pins of the mainboard and system inner workings. 
-    * Resolved edge cases, such as 3G USB modem misbehavior using AT+ commands. 
-  * DCIM: 
+    * Utilized **HTML, CSS** and plain **JavaScript** for both frontend and backend **(Node.js)** with minimal footprint. 
+    * Performed profiling and debugging on **JavaScript** for critical cases.
+    * Worked on data collection, including GPIO pins of the mainboard and system inner workings.
+    * Resolved edge cases, such as 3G USB modem misbehavior using AT+ commands.
+  * **DCIM:** 
 
-    * Implemented advanced UX elements for monitoring and alarm visualization. 
+    * Implemented advanced **UX** elements for monitoring and alarm visualization. 
     * Created flexibly linkable maps overlaid with heatmap and/or alarm/sensor data. 
-  * Retmes: 
+  * **Retmes:** 
 
-    * Worked on both server-side (micro architecture, cloud-first, JavaScript, Node.js) and frontend (React, JavaScript, Redux). 
-    * Implemented challenging UIs to meet industrial needs while adhering to best practices.
+    * Worked on both backend **(Micro architecture, Cloud-first, JavaScript, Node.js)** and frontend **(React, JavaScript, Redux).**
+    * Implemented challenging **UIs** to meet industrial needs while adhering to best practices.
 id: 6
